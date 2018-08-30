@@ -16,3 +16,6 @@ Develop environment:<br/>
 VS.net 2010<br/>
 <br/>
 LibPrivoxy is licensed under the GNU GPLv2.<br/>
+
+### update
+2018.08.30 vs2015
